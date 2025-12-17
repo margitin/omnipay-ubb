@@ -27,7 +27,7 @@ class Gateway extends AbstractGateway
     public function getDefaultParameters()
     {
         return [
-            'Currency' => 975, // BGN
+            'currency' => 978, // EUR
             'version' => 1,
             'testMode' => true,
             'gatewayCertificate' => file_get_contents(__DIR__ . '/../resources/test-server.cert'),
