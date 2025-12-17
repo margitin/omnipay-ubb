@@ -1,7 +1,7 @@
 {
-    "name": "gtsvetanov/omnipay-raiffeisen",
+    "name": "margitin/omnipay-ubb",
     "type": "library",
-    "description": "Raiffeisen Bank BG gateway for Omnipay payment processing library",
+    "description": "UBB Bank Bulgaria UPC gateway for Omnipay payment processing library",
     "keywords": [
         "gateway",
         "merchant",
@@ -11,12 +11,12 @@
         "raiffeisen",
         "purchase"
     ],
-    "homepage": "https://github.com/gtsvetanov/omnipay-raiffeisen",
+    "homepage": "https://github.com/margitin/omnipay-ubb",
     "license": "MIT",
     "authors": [
         {
-            "name": "Evgeni Nurkov",
-            "email": "evgeni.nurkov@gmail.com"
+            "name": "Ivan Margitin",
+            "email": "margitin@gmail.com"
         },
         {
             "name": "Georgi Tsvetanov",
