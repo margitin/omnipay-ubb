@@ -1,6 +1,6 @@
 # Omnipay: Raiffeisen
 
-**[Raiffeisen Bank E-commerce](https://ecg.test.upc.ua/rbbg/merchant) gateway for Omnipay payment processing library**
+**[UBB Bank E-commerce](https://ecg.test.upc.ua/rbbg/merchant) gateway for Omnipay payment processing library**
 
 [Omnipay](https://github.com/thephpleague/omnipay) is a framework agnostic, multi-gateway payment processing library for
 PHP. This package implements Raiffeisen Bank BG support for Omnipay.
@@ -8,7 +8,7 @@ PHP. This package implements Raiffeisen Bank BG support for Omnipay.
 ## Installation
 
 Omnipay is installed via [Composer](http://getcomposer.org/). To install, simply require `league/omnipay`
-and `gtsvetanov/omnipay-raiffeisen` with Composer:
+and `margitin/omnipay-ubb` with Composer:
 
 ```
 composer require league/omnipay gtsvetanov/omnipay-raiffeisen
