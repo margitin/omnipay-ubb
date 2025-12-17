@@ -11,7 +11,7 @@ Omnipay is installed via [Composer](http://getcomposer.org/). To install, simply
 and `margitin/omnipay-ubb` with Composer:
 
 ```
-composer require league/omnipay gtsvetanov/omnipay-raiffeisen
+composer require league/omnipay margitin/omnipay-ubb
 ```
 
 ## Basic Usage
