@@ -29,11 +29,11 @@
         }
     },
     "require": {
-        "php": "^7.1 || ^8.0",
+        "php": "^8.4",
         "omnipay/common": "^3",
         "ext-openssl": "*",
         "ext-json": "*",
-        "symfony/http-client": "^6.3"
+        "symfony/http-client": "^7.4"
     },
     "require-dev": {
         "omnipay/tests": "^4",
